@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.treartwear_source.twa",
+      "sha256_cert_fingerprints": [
+        "0E:67:99:09:F7:5D:16:5D:34:A1:82:07:F5:F1:FE:26:CF:F8:E3:96:02:83:BC:9E:51:B3:D3:CF:D4:AD:94:32"
+      ]
+    }
+  }
+]
